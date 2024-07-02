@@ -1,0 +1,111 @@
+Number of TCP Packet: 2000 
+Number of TCP Packet: 481 
+Number of TCP Packet: 6 
+
+TCP Mean Packet: 691.511
+TCP Mean Packet: 77.85239085239085
+TCP Mean Packet: 16.0
+
+Timestamps First: 2011-05-18
+Timestamps Last: 2011-05-18
+
+Email Address in TO Packet:
+<inter0pt1c@aol.com>
+<d4rktangent@gmail.com>
+<mistersekritx@aol.com>
+
+Email Address in FROM Packet:
+<
+s
+n
+e
+a
+k
+y
+g
+3
+3
+k
+y
+@
+a
+o
+l
+.
+c
+o
+m
+>
+
+TCP Packet URl: ['http://www.computerworld.com/s/article/9216779/Microsoft_adds_Chrome_support_for_online_Office_apps', 'http://www.denofgeek.com/movies/889680/a_celebration_of_the_scifi_ray_gun.html', 'http://www.eweekeurope.co.uk/news/gchq-letter', 'http://www.nxp.com/news/content/file_1896.html', 'http://www.infoworld.com/t/mobile-security/android', 'http://www.uni-ulm.de/en/in/mi', 'http://www.cosmosmagazine.com/news/4321/first-habitable', 'http://www.osnews.com/story/24746/Miguel_De_Icaza_Announces_New_Company', 'http://www.schneier.com/blog/archives', 'http://www.technologyreview.com/biomedicine', 'http://www.pcmag.com/article', 'http://www.bing.com/community/site_blogs/b/search', 'http://www.geekwire.com/2011/lakeside-leads-the', 'http://www.khanacademy.org', 'http://www.dailykos.com/story', 'http://www.groklaw.net/article.php?story', 'http://www.law.duke.edu/fac/webbink', 'http://www.facebook.com/slashdot', 'http://www.amazon.com/dp/0596806396/ref=nosim', 'http://www.amazon.com/dp/1847199542/ref=nosim', 'http://www.amazon.com/dp/184719690X/ref=nosim', 'http://www.w3.org/2005/07/aaa', 'http://www.microsoft-careers.com/go/Software-Engineering', 'http://www.w3.org/1999/02/22-rdf', 'http://www.googleadservices.com/pagead/p3p.xml']
+
+
+TCP Packet images of .png file: 
+ ['internet_64.png', 'chrome_64.png', 'movies_64.png', 'government_64.png', 'gnu_64.png', 'google_64.png', 'android_64.png', 'space_64.png', 'privacy_64.png', 'facebook_64.png', 'education_64.png', 'court_64.png', 'thumb.png', '83.png', 'logo_w_l.png', '16.png', 'twitter_24.png', 'facebook_24.png', 'rss_24.png', 'SD_wrapper7b_bottom.png', 'i.png', 'ffffff.png']
+
+
+TCP Packet images of .jpg file: 
+ ['187.jpg', '176.jpg', '728x90_Endframe_Revised.jpg']
+
+
+TCP Packet images of .gif file: 
+ ['spinner_large.gif', '__utm.gif', 'grey.gif', '1x1white.gif', 'SD_RelatedResources_Top.gif']
+
+
+TCP Packet Source and Destination IP Address
+TCP Packet src and dst => ('184.30.179.172', '192.168.30.108') 	 Count => 327
+TCP Packet src and dst => ('192.168.30.108', '205.188.58.10') 	 Count => 265
+TCP Packet src and dst => ('192.168.30.108', '64.12.168.40') 	 Count => 251
+TCP Packet src and dst => ('192.168.30.108', '184.30.179.172') 	 Count => 191
+TCP Packet src and dst => ('205.188.58.10', '192.168.30.108') 	 Count => 166
+TCP Packet src and dst => ('64.12.168.40', '192.168.30.108') 	 Count => 154
+TCP Packet src and dst => ('192.168.30.30', '10.30.30.20') 	 Count => 126
+TCP Packet src and dst => ('216.34.181.45', '192.168.30.108') 	 Count => 70
+TCP Packet src and dst => ('74.125.224.122', '192.168.30.108') 	 Count => 63
+TCP Packet src and dst => ('74.125.224.123', '192.168.30.108') 	 Count => 47
+TCP Packet src and dst => ('74.125.224.60', '192.168.30.108') 	 Count => 44
+TCP Packet src and dst => ('192.168.30.108', '216.34.181.45') 	 Count => 37
+TCP Packet src and dst => ('192.168.30.108', '74.125.224.123') 	 Count => 35
+TCP Packet src and dst => ('192.168.30.108', '74.125.224.122') 	 Count => 35
+TCP Packet src and dst => ('192.168.30.108', '74.125.224.60') 	 Count => 33
+TCP Packet src and dst => ('174.137.114.45', '192.168.30.108') 	 Count => 33
+TCP Packet src and dst => ('192.168.30.108', '174.137.114.45') 	 Count => 26
+TCP Packet src and dst => ('216.137.45.111', '192.168.30.108') 	 Count => 20
+TCP Packet src and dst => ('192.168.30.108', '216.137.45.111') 	 Count => 16
+TCP Packet src and dst => ('74.125.224.105', '192.168.30.108') 	 Count => 12
+TCP Packet src and dst => ('74.125.224.52', '192.168.30.108') 	 Count => 10
+TCP Packet src and dst => ('192.168.30.108', '74.125.224.105') 	 Count => 9
+TCP Packet src and dst => ('174.137.114.42', '192.168.30.108') 	 Count => 8
+TCP Packet src and dst => ('192.168.30.108', '174.137.114.42') 	 Count => 7
+TCP Packet src and dst => ('192.168.30.106', '192.168.30.108') 	 Count => 6
+TCP Packet src and dst => ('192.168.30.108', '209.107.213.96') 	 Count => 5
+TCP Packet src and dst => ('209.107.213.96', '192.168.30.108') 	 Count => 4
+
+
+TCP Packet Source and Destination IP Address
+UDP Packet src and dst => ('192.168.30.108', '10.30.30.20') 	 Count => 126
+UDP Packet src and dst => ('10.30.30.20', '192.168.30.108') 	 Count => 126
+UDP Packet src and dst => ('192.168.30.101', '192.168.30.255') 	 Count => 45
+UDP Packet src and dst => ('192.168.30.102', '192.168.30.255') 	 Count => 45
+UDP Packet src and dst => ('10.30.30.20', '172.30.1.5') 	 Count => 38
+UDP Packet src and dst => ('172.30.1.5', '10.30.30.20') 	 Count => 38
+UDP Packet src and dst => ('192.168.30.108', '192.168.30.255') 	 Count => 36
+UDP Packet src and dst => ('10.30.30.20', '10.30.30.255') 	 Count => 4
+UDP Packet src and dst => ('192.168.30.30', '10.30.30.20') 	 Count => 4
+UDP Packet src and dst => ('10.30.30.20', '192.168.30.30') 	 Count => 4
+UDP Packet src and dst => ('0.0.0.0', '255.255.255.255') 	 Count => 3
+UDP Packet src and dst => ('10.30.30.20', '91.189.94.4') 	 Count => 2
+UDP Packet src and dst => ('91.189.94.4', '10.30.30.20') 	 Count => 2
+UDP Packet src and dst => ('192.168.30.10', '192.168.30.108') 	 Count => 1
+UDP Packet src and dst => ('192.168.30.108', '64.4.10.44') 	 Count => 1
+UDP Packet src and dst => ('192.168.30.101', '192.168.30.10') 	 Count => 1
+UDP Packet src and dst => ('192.168.30.10', '192.168.30.101') 	 Count => 1
+UDP Packet src and dst => ('192.168.30.106', '192.168.30.10') 	 Count => 1
+UDP Packet src and dst => ('192.168.30.10', '192.168.30.106') 	 Count => 1
+UDP Packet src and dst => ('192.168.30.102', '192.168.30.10') 	 Count => 1
+UDP Packet src and dst => ('192.168.30.10', '192.168.30.102') 	 Count => 1
+
+
+IGMP Packet Source and Destination IP Address
+IGMP Packet src and dst => ('192.168.30.108', '224.0.0.22') 	 Count => 6
+
